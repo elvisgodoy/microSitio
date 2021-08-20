@@ -28,6 +28,7 @@ xaviergodoyortega@gmail.com
   **!todos los comandos anteriores se ejecutarán en la terminal dentro del proyecto!**
 
 ● Iniciar sesión con:
+
 Usuario: admin@admin.com
 
 Contraseña: contraseña
