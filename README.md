@@ -15,10 +15,13 @@ xaviergodoyortega@gmail.com
 ********************************************************************************************************************
 
 Como empesar
+
 ● Clonar el repositiorio master
+
 ● Crear la base de datos con el nombre microSitio
 
 ● Ejecutar migraciones con el comando php artisan migrate --seed
+
 ● Ejecutar el comando php artisan storage:link para poder acceder a las imagenes por la carpeta public
 
 ● Ejecutar el servidor con php artisan serve                                                      
