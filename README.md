@@ -4,7 +4,7 @@ Este proyecto es un pequeño sistema web desarrollado en Laravel con las tecnolo
 
 ********************************************************************************************************************
 
-Desarrollado por
+# Desarrollado por
 Elvis Xavier Godoy
 
 xaviergodoyortega@gmail.com
