@@ -13,7 +13,7 @@ xaviergodoyortega@gmail.com
 
 ********************************************************************************************************************
 
-Como empezar
+# Como empezar
 
 ● Clonar el repositorio máster
 
@@ -24,10 +24,12 @@ Como empezar
 ● Ejecutar el comando php artisan storage:link para poder acceder a las imágenes a través de la carpeta public
 
 ● Ejecutar el servidor con php artisan serve
-!todos los comandos anteriores se ejecutarán en la terminal dentro del proyecto!
+
+  !todos los comandos anteriores se ejecutarán en la terminal dentro del proyecto!
 
 ● Iniciar sesión con:
 Usuario: admin@admin.com
+
 Contraseña: contraseña
 
 
