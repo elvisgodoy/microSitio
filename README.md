@@ -10,6 +10,7 @@ Desarrollado por
 Elvis Xavier Godoy
 
 xaviergodoyortega@gmail.com
+
 99287403
 
 ********************************************************************************************************************
@@ -25,7 +26,7 @@ Como empesar
 ● Ejecutar el comando php artisan storage:link para poder acceder a las imagenes por la carpeta public
 
 ● Ejecutar el servidor con php artisan serve                                                      
-!todos los comandos anteriores se ejecutaran en la terminal del proyecto!
+        !todos los comandos anteriores se ejecutaran en la terminal del proyecto!
 
 ● Iniciar sesión con:
 Usuario: admin@admin.com
