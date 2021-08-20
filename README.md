@@ -21,7 +21,7 @@ Como empesar
 ● Ejecutar migraciones con el comando php artisan migrate --seed
 ● Ejecutar el comando php artisan storage:link para poder acceder a las imagenes por la carpeta public
 
-● Ejecutar el servidor con php artisan serve
+● Ejecutar el servidor con php artisan serve                                                      
 !todos los comandos anteriores se ejecutaran en la terminal del proyecto!
 
 ● Iniciar sesión con:
